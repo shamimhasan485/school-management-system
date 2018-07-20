@@ -1,5 +1,5 @@
 # school-management-system
-===================================================================
+
 This is a simple school management system using mysql database
 ===================================================================
 1. Create database in your mysql database
